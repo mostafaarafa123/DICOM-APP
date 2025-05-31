@@ -1,5 +1,5 @@
-streamlit
-pydicom
-numpy
-opencv-python-headless
-Pillow
+streamlit==1.24.1
+pydicom==2.4.2
+numpy==1.24.3
+opencv-python-headless==4.7.0.72
+Pillow==9.5.0
