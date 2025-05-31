@@ -203,5 +203,5 @@ if uploaded_files:
         )
 
 else:
-    # If no files uploaded yet, show a prompt message
+    ## If no files uploaded yet, show a prompt message
     st.info("Upload multiple DICOM (.dcm) files to begin.")
